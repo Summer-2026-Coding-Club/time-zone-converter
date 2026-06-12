@@ -1,5 +1,5 @@
 # time-zone-converter
-A fun, colorful example project that shows the current time in cities around the world — explore the code and leave a comment!
+A fun, example project that shows the current time in cities around the world — explore the code and leave a comment!
 # 🌍 Time Zone Converter
 
 A fun, colorful example project that shows the current time in cities around the world!
